@@ -8,25 +8,26 @@ incremental: 1
 title: Derren Yeoh
 description: Freelance Sound Designer | Audio Engineer
 
+##change this when pushing to prod
 #baseurl:  #name of GitHub repository
 url: "http://localhost:4000" #custom url to be used instead of GitHub repository
 
 highlighter: rouge
 markdown: kramdown
 
-## Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+### Pagination
+#paginate: 4
+#permalink: /blog/:year/:title/
+#paginate_path: /blog/page:num/ 
 
 ## Contact/social media links in footer
 email: derren.yeohwj@gmail.com
-#facebook: "#"
-#twitter: "#"
-#linkedin: "#"
-#github: "#"
-#researchgate: "#"
-#orcid: "#"
+facebook: ""
+twitter: ""
+linkedin: ""
+github: ""
+researchgate: ""
+orcid: ""
 
 highlighter: rouge
 markdown: kramdown
