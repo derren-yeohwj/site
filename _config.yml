@@ -3,7 +3,7 @@
 ##temp jekyll serve
 livereload: 1
 force_polling: 1
-incremental: 1
+#incremental: 1
 
 title: Derren Yeoh
 description: Freelance Sound Designer | Audio Engineer
@@ -48,9 +48,9 @@ compress_html:
 
 #collection
 collections:
-  projects:
+  portfolio:
     output: true
-    permalink: /projects/:path/
+    permalink: /portfolio/:name/
 
 sass:
   sass_dir: /assets/css/_sass
@@ -65,6 +65,5 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
