@@ -1,14 +1,16 @@
 ---
 layout: about
 permalink: /
-profile:
-  align: right
-  image: profile.png
+#profile:
+#  align: right
+#  image: profile.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+## Hi!
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My name is Derren. I am a freelance sound designer/audio engineer based in Singapore. 
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I have been passionate about audio engineering since I was a teenager. It started out with a love for music, which led me to wanting to learn more about the technical aspects of music production. This eventually led to me experimenting with sound effects, thus kickstarting my journey into audio post production. 
+
+I decided to take up a WSQ Diploma in Content Post Production (Sound Engineering) in June 2021 with [Singapore Media Academy](https://www.mediaacademy.sg/), where I was awarded the "Best Student Award" for the cohort. 
