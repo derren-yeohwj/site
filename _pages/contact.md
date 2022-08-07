@@ -4,4 +4,6 @@ permalink: /contact/
 title: Contact
 ---
 
-Insert contact form here....
+# Contact Me
+
+Under construction...
