@@ -10,6 +10,7 @@ Like what you hear?
 
 I provide the following services: 
 - Audio Post Production
+- Sound Design
 - Music Mixing
 - Audio Engineering/Editing
 
