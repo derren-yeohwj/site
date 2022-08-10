@@ -6,11 +6,11 @@ title: Services
 
 ## Services
 
-Like what you hear and want to engage my services? 
+Like what you hear?
 
-I provide the following: 
-- Sound Design
-- Sound Mixing
-- Sound Editing
+I provide the following services: 
+- Audio Post Production
+- Music Mixing
+- Audio Engineering/Editing
 
 Please <a href="{{ site.baseurl }}/contact/">drop me a message</a> and I will get back to you as soon as I can!

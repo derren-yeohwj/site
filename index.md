@@ -9,6 +9,18 @@ published: true
 
 ## Hi!
 
-My name is Derren. I am a freelance sound designer/audio engineer based in Singapore. 
+My name is Derren. I am a freelance sound designer/audio engineer based in Singapore an expertise in sound design, music production/mixing, as well as other audio engineering work such as audio editing and audio clean up.
 
-I primarily work in Cubase for audio editing and DaVinci Resolve for video editing, but I am proficient in Pro Tools and Adobe Premiere Pro as well. 
+---
+
+**Education:**
+- WSQ Diploma in Content Post-Production, [Singapore Media Academy](https://mediaacademy.sg)
+  - Awarded "Best Student Award" for the cohort
+
+---
+
+**Software Proficiencies:**
+- Steinberg Cubase
+- Avid Pro Tools
+- Adobe Premiere Pro
+- DaVinci Resolve
