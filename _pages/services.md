@@ -13,4 +13,4 @@ I provide the following:
 - Sound Mixing
 - Sound Editing
 
-Please <a href="{{ site.baseurl }}/contact/">drop me a message</a> and I will get back to you as soon as I can!
+Please <a href="{{ site.url }}/contact/">drop me a message</a> and I will get back to you as soon as I can!

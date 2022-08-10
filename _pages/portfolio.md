@@ -19,8 +19,8 @@ Here are some of my audio post production work. Most of the sounds you hear in t
 
 <iframe width="440" height="315" src="https://www.youtube.com/embed/UTObObUa9pY" title="The Summoning (Video Editing + Sound Design)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="440" height="315" src="https://www.youtube.com/embed/ebdMYcYXkTM" title="The Dream Killer (Video Editing + Sound Design)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="440" height="315" src="https://www.youtube.com/embed/ebdMYcYXkTM" title="The Dream Killer (Video Editing + Sound Design)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="440" height="315" src="https://www.youtube.com/embed/teicLU1OXSU" title="Party High (Sound Design only)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="440" height="315" src="https://www.youtube.com/embed/teicLU1OXSU" title="Party High (Sound Design only)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>

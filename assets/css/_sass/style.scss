@@ -145,14 +145,14 @@ blockquote {
 }
 
 /* Add video class for iframes to make them responsive */
-.video {
+.video iframe {
   width: 100%;
-  height: 360px;
+  height: 315px;
   @include media-query($on-laptop) {
     height: 300px;
   }
   @include media-query($on-palm) {
-    height: 180px;
+    height: 315px;
   }
 }
 

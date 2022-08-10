@@ -1,9 +1,9 @@
 ### your site title here
 
-##temp jekyll serve
+# for jekyll serve
 livereload: 1
 force_polling: 1
-#incremental: 1
+incremental: 1
 
 title: Derren Yeoh
 description: Freelance Sound Designer | Audio Engineer
@@ -20,20 +20,13 @@ markdown: kramdown
 #permalink: /blog/:year/:title/
 #paginate_path: /blog/page:num/ 
 
-## Contact/social media links in footer
+## Contact variables
 email: derren.yeohwj@gmail.com
-facebook: ""
-twitter: ""
-linkedin: ""
-github: ""
-researchgate: ""
-orcid: ""
+whatsapp: wa.me/6596718659
+telegram: t.me/boxmeow
 
 highlighter: rouge
 markdown: kramdown
-
-# Tracker
-analytics:
 
 #optimization -> compress.html
 compress_html:
