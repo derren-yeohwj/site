@@ -11,9 +11,8 @@ tagline: Freelance Sound Designer & Audio Engineer based in Singapore
 description: Freelance Sound Designer & Audio Engineer based in Singapore, proficient in Cubase, Pro Tools and Adobe Premiere Pro
 author: Derren Yeoh
 
-##change this when pushing to prod
 #baseurl:  #name of GitHub repository
-url: "http://localhost:4000" #custom url to be used instead of GitHub repository
+url: "http://derren-audio.com" #custom url to be used instead of GitHub repository
 
 highlighter: rouge
 markdown: kramdown
