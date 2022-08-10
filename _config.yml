@@ -46,12 +46,6 @@ compress_html:
   profile: false
   startings: []
 
-#collection
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:name/
-
 sass:
   sass_dir: /assets/css/_sass
   style: compressed

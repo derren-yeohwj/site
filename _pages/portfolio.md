@@ -5,42 +5,22 @@ permalink: /portfolio/
 published: true
 ---
 
-## Portfolio
+<!--
+## Sound Effects
 
-<div class="ProjectContainer">
+Coming soon
+!-->
 
-	<div class="gallery">
+## Sound Design/Video Editing Work
 
+Here are some of my audio post production work. Most of the sounds you hear in these projects are created with a combination of library SFX and foley. Some projects also involve video editing and colour correction.
 
-  {% for project in site.portfolio %}
+<center>
 
-  {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
+<iframe width="440" height="315" src="https://www.youtube.com/embed/UTObObUa9pY" title="The Summoning (Video Editing + Sound Design)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  {% else %}
+<iframe width="440" height="315" src="https://www.youtube.com/embed/ebdMYcYXkTM" title="The Dream Killer (Video Editing + Sound Design)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
+<iframe width="440" height="315" src="https://www.youtube.com/embed/teicLU1OXSU" title="Party High (Sound Design only)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  {% endif %}
-
-  {% endfor %}
-
-	</div>
-
-</div>
+</center>
