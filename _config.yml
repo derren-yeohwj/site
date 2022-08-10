@@ -12,7 +12,7 @@ description: Freelance Sound Designer & Audio Engineer based in Singapore, profi
 author: Derren Yeoh
 
 #baseurl:  #name of GitHub repository
-url: "http://derren-audio.com" #custom url to be used instead of GitHub repository
+url: "derren-audio.com" #custom url to be used instead of GitHub repository
 
 highlighter: rouge
 markdown: kramdown
