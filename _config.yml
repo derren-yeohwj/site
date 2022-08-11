@@ -1,6 +1,6 @@
 ### your site title here
 
-# for jekyll serve
+# for local jekyll serve
 livereload: 1
 force_polling: 1
 incremental: 1

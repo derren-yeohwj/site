@@ -25,4 +25,4 @@ while(True):
 
 os.system("git add *")
 os.system("git commit -am '" + commitMsg + "'")
-os.system("git push -u origin main")
+os.system("git push")
