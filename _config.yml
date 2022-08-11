@@ -51,6 +51,7 @@ include:
 exclude:
   - README.md
   - LICENSE.md
+  - jekyll-deploy.py
 
 plugins:
   - jekyll-seo-tag
