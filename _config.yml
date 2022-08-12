@@ -3,7 +3,6 @@
 # for local jekyll serve
 livereload: 1
 force_polling: 1
-incremental: 1
 
 title: Derren Yeoh
 subtitle: Freelance Sound Designer | Audio Engineer
