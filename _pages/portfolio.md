@@ -5,13 +5,15 @@ permalink: /portfolio/
 published: true
 ---
 
+## Portfolio
+
 <!--
 ## Sound Effects
 
 Coming soon
 !-->
 
-## Audio Post/Video Editing Work
+### Audio Post/Video Editing
 
 Here are some of my audio post production work. Most of the sounds you hear in these projects are created with a combination of library SFX and foley. Some projects also involve video editing and colour correction.
 
