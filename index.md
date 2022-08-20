@@ -9,7 +9,7 @@ published: true
 
 ## Hi!
 
-My name is Derren. I am a freelance sound designer/audio engineer based in Singapore. I am passionate about sound design and music production, especially audio post production and music mixing. 
+My name is Derren. I am a freelance sound designer/audio engineer based in Singapore. I am passionate about audio post production and music production, and I especially enjoy the process of sound design and mixing.
 
 ---
 
